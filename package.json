@@ -1,7 +1,7 @@
 {
   "name": "artsofbaniya",
-  "version": "2.0.0",
-  "description": "A personal card for Aditya Agarwal (@vintageplayer)",
+  "version": "1.0.0",
+  "description": "A personal card for Aditya Agarwal (@artsofbaniya)",
   "main": "card.js",
   "bin": {
     "anmol": "./card.js"
